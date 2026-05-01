@@ -1,6 +1,13 @@
 # MemoryOS
 
-MemoryOS is an AI-powered people-memory prototype that helps you remember everyone you meet. Record a quick voice note after a conversation, let AI extract the useful details, and later search your personal network by name, context, role, company, event, or vague memory.
+![Built for Bloomathon](https://img.shields.io/badge/Built%20for-Bloomathon-7C3AED?style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-55-000020?style=for-the-badge&logo=expo)
+![React Native](https://img.shields.io/badge/React%20Native-0.83-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Convex](https://img.shields.io/badge/Backend-Convex-EE342F?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Runtime-Bun-F9F1E1?style=for-the-badge&logo=bun&logoColor=000)
+
+MemoryOS is an AI-powered people-memory prototype built for **Bloomathon**. It helps you remember everyone you meet: record a quick voice note after a conversation, let AI extract the useful details, and later search your personal network by name, context, role, company, event, or vague memory.
 
 > Prototype status: functional MVP built with Expo + Convex.
 
